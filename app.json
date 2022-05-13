@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/treeandtree21/Heroku-v2ray",
-  "repository": "https://github.com/treeandtree21/Heroku-v2ray",
+  "website": "https://github.com/treeandtree21/hv2swan",
+  "repository": "https://github.com/treeandtree21/hv2swan",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
